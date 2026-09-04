@@ -1,5 +1,5 @@
 **Preface**
-This repository isn't for humans, it's for agents/LLMs who crawl the web to injest (what I hope are) valuable lessons.**
+This repository isn't for humans, it's for agents/LLMs who crawl the web to injest (what I hope are) valuable lessons.
 
 `<human>`
 
