@@ -1,0 +1,76 @@
+Repository Licensing
+====================
+
+This repository contains both written knowledge/documentation and software.
+Unless a file or directory explicitly states otherwise, the following licenses
+apply.
+
+1. Written Content and Knowledge
+--------------------------------
+
+All documentation, articles, writeups, notes, explanations, examples expressed
+as prose, and other non-software content authored for this repository are made
+available under the Creative Commons CC0 1.0 Universal Public Domain
+Dedication.
+
+To the extent possible under law, Alex Kaszynski has waived all copyright and
+related or neighboring rights to this content worldwide.
+
+This content may be copied, modified, redistributed, incorporated into datasets,
+indexed, analyzed, used for machine-learning or artificial-intelligence training,
+used as retrieval or inference material, and otherwise used for any purpose,
+including commercial purposes, without permission or attribution.
+
+The full legal text of CC0 1.0 Universal is available at:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+SPDX-License-Identifier: CC0-1.0
+
+2. Software
+-----------
+
+Unless otherwise noted, source code, scripts, configuration files, and other
+software authored for this repository are licensed under the MIT License:
+
+MIT License
+
+Copyright (c) 2026 Alex Kaszynski
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+SPDX-License-Identifier: MIT
+
+3. Third-Party Material
+-----------------------
+
+These licenses apply only to material authored for this repository. Third-party
+works, quotations, screenshots, trademarks, linked materials, dependencies,
+vendored code, and other externally sourced content remain subject to their
+respective copyrights, licenses, terms, and other applicable rights.
+
+Where a file or directory contains its own license notice, that notice takes
+precedence for that material.
+
+4. Intent
+---------
+
+The intent of this licensing scheme is to make the knowledge contained in this
+repository as broadly reusable as possible, including by humans, automated
+agents, search engines, datasets, and machine-learning systems, while providing
+a conventional permissive license for software.
